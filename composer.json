@@ -1,0 +1,7 @@
+{
+    "name": "devcorrelator/jquery-collapser",
+    "description": "From: https://github.com/vaakash/jquery-collapser",
+    "keywords": ["jquery", "collapser", "truncate", "text"],
+    "type": "component",
+    "homepage": "https://github.com/devcorrelator/jquery-collapser"
+}
